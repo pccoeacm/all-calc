@@ -1,4 +1,4 @@
-# all-calc
+# All Calc - A calculator to calculate anything you can think of!
 
 ```
  /$$      /$$           /$$                                                     /$$                    
