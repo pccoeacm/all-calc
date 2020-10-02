@@ -47,9 +47,11 @@ class Calc:
 
         if (ui > len(self.options or ui < 0)):
             print("Incorrect Option")
-
         else:
-            self.functions[self.options[ui - 1]]()
+            response = self.functions[self.options[ui - 1]](should_print=True)
+
+            if response is not None:
+                print("\n", response)
 
 
 print(
