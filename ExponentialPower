@@ -1,0 +1,4 @@
+print("This is an exponential Calculator")
+num1=int(input("Please Enter A Number\n"))
+num2=int(input("Please Enter the Exponent\n"))
+print("The result is: ",num1**num2)
