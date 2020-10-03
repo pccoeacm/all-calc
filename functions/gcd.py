@@ -24,5 +24,3 @@ def calc(should_print=False):
         print(f"Solution {result['outputs'][0]}")
     else:
         return result
-
-calc(True)
