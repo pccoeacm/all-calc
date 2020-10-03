@@ -1,4 +1,3 @@
-def calc()
 def calc(should_print=False):
 
     print("""
@@ -23,6 +22,6 @@ def calc(should_print=False):
     if should_print:
         print("Solution {result['outputs'][0]}")
     else:
-        return result
+        return 0;
             
 calc()
