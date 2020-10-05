@@ -9,10 +9,10 @@ def calc(should_print=False):
     \n
     """)
 
-    n = int(input("Enter n >> "))
+    n = float(input("Enter n >> "))
     fac = 1
 
-    while(n > 1):
+    while(int(n) >= 1):
         fac = fac*n
         n -= 1
 
