@@ -5,7 +5,7 @@ def calc(should_print=False):
     Name: Average
     Operation : Average of given number
     Inputs :(a,b,c.....n)->int/float ,total no ->int
-    Outputs: A=>(a+b+...n)/total_no ->float
+    Outputs: Avg=>(a+b+...n)/total_no ->float
     Author : Anand76666  
     \n
     """)
