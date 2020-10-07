@@ -1,3 +1,10 @@
+'''
+
+                            Online Python Compiler.
+                Code, Compile, Run and Debug python program online.
+Write your code in this editor and press "Run" button to execute it.
+
+'''
 
 def calc(should_print=False):
 
@@ -19,6 +26,10 @@ def calc(should_print=False):
         Total_list.append(b)
     print("Average of given inputs :",sum(Total_list) / len(Total_list))
     
+    result = {}
+    result['inputs'] = [Total_list]
+    result['outputs'] = [sum(Total_list) / len(Total_list)]
+    
         
     if should_print:
         print("Solution {result['outputs'][0]}")
@@ -26,3 +37,4 @@ def calc(should_print=False):
         return result
             
 calc()
+
