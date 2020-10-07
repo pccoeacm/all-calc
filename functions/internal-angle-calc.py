@@ -6,7 +6,7 @@ def calc(should_print=False):
     Name: Internal Angle Calculator
     Operation : calculate internal angles of n-sided polygon 
     Inputs : n->int/float 
-    Outputs: angle=>a+b ->float
+    Outputs: angle=>float
     Author : rakshit_jha  
     \n
     """)
