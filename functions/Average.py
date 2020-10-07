@@ -1,4 +1,4 @@
-def calc()
+
 def calc(should_print=False):
 
     print("""
