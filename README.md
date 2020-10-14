@@ -34,3 +34,9 @@ These guidelines are a way to communicate how people should contribute. These gu
 # Code of Conduct
 
 We have adopted a code of conduct to define community standards, signal a welcoming and inclusive project, and outline procedures for handling abuse. Please go through the [Code of Conduct file](https://github.com/pccoeacm/all-calc/blob/main/CODE_OF_CONDUCT.md) so that you understand the community standards.
+
+# Installation 
+
+This calculator uses Python 3. Before using the calculator, install all the dependencies using
+
+    pip install -r requirements.txt
