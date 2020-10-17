@@ -1,3 +1,8 @@
 {
+<<<<<<< HEAD
     "python.formatting.provider": "yapf"
+=======
+    "python.formatting.provider": "yapf",
+    "python.pythonPath": "C:\\Users\\Acer\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
+>>>>>>> 7f6ee16969b66d0ee2c2fba0eeee3679922e0b89
 }
